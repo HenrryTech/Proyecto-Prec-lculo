@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7B6FD22A-AEAC-4D53-BD9B-B102968E3ADD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>proyecto precalculo</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>proyecto precalculo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>proyecto precalculo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ecuacion.Designer.vb">
+      <DependentUpon>Ecuacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ecuacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.vb">
+      <DependentUpon>principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="O. basicas.Designer.vb">
+      <DependentUpon>O. basicas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="O. basicas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="productos notables.Designer.vb">
+      <DependentUpon>productos notables.vb</DependentUpon>
+    </Compile>
+    <Compile Include="productos notables.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resta_cuadrada.Designer.vb">
+      <DependentUpon>resta_cuadrada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resta_cuadrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resta_cubo.Designer.vb">
+      <DependentUpon>resta_cubo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resta_cubo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suma_cuadrada.Designer.vb">
+      <DependentUpon>suma_cuadrada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suma_cuadrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suma_cubo.Designer.vb">
+      <DependentUpon>suma_cubo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suma_cubo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trigonometria.Designer.vb">
+      <DependentUpon>trigonometria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trigonometria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Ecuacion.resx">
+      <DependentUpon>Ecuacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="O. basicas.resx">
+      <DependentUpon>O. basicas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productos notables.resx">
+      <DependentUpon>productos notables.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resta_cuadrada.resx">
+      <DependentUpon>resta_cuadrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resta_cubo.resx">
+      <DependentUpon>resta_cubo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suma_cuadrada.resx">
+      <DependentUpon>suma_cuadrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suma_cubo.resx">
+      <DependentUpon>suma_cubo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trigonometria.resx">
+      <DependentUpon>trigonometria.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-sanaan-29725408.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sumanew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suma2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suma21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dvid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xddd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aadsd.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

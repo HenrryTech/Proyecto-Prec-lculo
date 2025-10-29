@@ -1,0 +1,34 @@
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\proyecto precalculo.exe
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\proyecto precalculo.xml
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\proyecto precalculo.pdb
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\bin\Debug\proyecto precalculo.exe
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\bin\Debug\proyecto precalculo.pdb
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\bin\Debug\proyecto precalculo.xml
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.Ecuacion.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.principal.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.operaciones_basicas.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.trigonometria.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\proyecto precalculo.vbproj.GenerateResource.Cache
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.productos_notables.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.resta_cubo.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.suma_cuadrada.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.resta_cuadrada.resources
+C:\Users\familia\Documents\proyecto precalculo\proyecto precalculo\obj\x86\Debug\WindowsApplication1.suma_cubo.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\proyecto precalculo.exe
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\proyecto precalculo.xml
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\proyecto precalculo.pdb
+C:\Users\jchap\Desktop\proyecto precalculo\bin\Debug\proyecto precalculo.exe
+C:\Users\jchap\Desktop\proyecto precalculo\bin\Debug\proyecto precalculo.pdb
+C:\Users\jchap\Desktop\proyecto precalculo\bin\Debug\proyecto precalculo.xml
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.Ecuacion.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.principal.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.operaciones_basicas.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.productos_notables.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.resta_cuadrada.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.resta_cubo.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.suma_cuadrada.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.suma_cubo.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\WindowsApplication1.trigonometria.resources
+C:\Users\jchap\Desktop\proyecto precalculo\obj\x86\Debug\proyecto precalculo.vbproj.GenerateResource.Cache
