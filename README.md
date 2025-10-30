@@ -1,0 +1,1 @@
+Fue un proyecto desarrollado utilizando el lenguaje de programación X, realizado durante el segundo semestre de la carrera de Ingeniería en Sistemas. El objetivo principal fue implementar un software capaz de resolver ejercicios matemáticos básicos, facilitando el aprendizaje y la práctica de operaciones fundamentales.
